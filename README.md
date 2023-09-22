@@ -18,6 +18,8 @@ Thus, we could employ binary search concept to divide commits into chunks and ru
 - `Add github action CI (f0db516)` is the last good commit passing CI
 - `15th commit (4ba3d29)` is the first bad commit failing CI
 
+<img width="603" alt="Screenshot 2023-09-22 at 6 02 47 PM" src="https://github.com/yuxil2/ci_find_error/assets/113071556/838fad5d-9f8b-4c7f-922f-1ffc0578ed46">
+
 ## Spot Issue Commit Automatically
 With the knowledge on commit histories, we get to know the issue should be between good and bad commit.
 
