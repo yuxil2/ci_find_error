@@ -1,2 +1,2 @@
 def output_positive():
-    return 1442
+    return 14420
