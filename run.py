@@ -1,2 +1,2 @@
 def output_positive(issue):
-    return 144
+    return 1440
