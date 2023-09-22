@@ -1,2 +1,2 @@
 def output_positive():
-    return 104
+    return 1
